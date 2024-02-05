@@ -1,0 +1,6 @@
+@PayLess_HostAddress = http://localhost:5167
+
+GET {{PayLess_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
